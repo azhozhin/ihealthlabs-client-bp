@@ -19,7 +19,7 @@ public class ApiUtils {
 
     private static final String CLIENT_ID = "9670e3c3d20e4685a3d2120108252640";
     private static final String CLIENT_SECRET = "224bf895608f4fb685b6fd205771c81d";
-    private static final String REDIRECT_URI = "http://ihealthlabs-client-bp.zhozhin.com/auth";
+    private static final String REDIRECT_URI = "http://localhost:8080/auth";
     private static final Map<String, ScSv> apiAuth;
     private static final String API_NAME_BP = "OpenApiBP";
     static
